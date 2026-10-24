@@ -24,7 +24,7 @@ This repository stores all my EAI lab practicals in one place. Each practical is
 | **Name** | Dev |
 | **Course** | B.Tech Artificial Intelligence and Data Science |
 | **College** | Chennai Institute of Technology (CIT), Chennai |
-| **Year / Semester** | First Year / `<add your semester>` |
+| **Year / Semester** | First Year / Semester-1|
 | **Subject** | Exploration in AI (EAI) |
 
 ---
