@@ -1,3 +1,4 @@
+##Student Marks, Percentage, Grade and Academic Performance##
 name = input("Enter student name: ")
 n = int(input("Enter number of subjects: "))
 total = 0
